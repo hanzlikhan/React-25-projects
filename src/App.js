@@ -6,7 +6,7 @@ function App() {
      {/* Accordion compoenent */}
      <Accordion/>
     </div>
-//   );
-// }
+  );
+}
 
 export default App;
